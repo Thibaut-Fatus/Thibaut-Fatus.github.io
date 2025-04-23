@@ -1,5 +1,5 @@
 # Thibaut Fatus
-https://www.linkedin.com/in/thibautfatus/
+[Linkedin](https://www.linkedin.com/in/thibautfatus/)
 
 
 ## Engineering & Product
@@ -8,3 +8,12 @@ https://www.linkedin.com/in/thibautfatus/
 - CTO @ [Rent a Tap](https://location-tireuse.fr)
 - CTO @ [TOTEM](https://totem.co)
 - CTO @ WeAssur
+
+## Web / Native
+- Typescript
+- React / React-Native / Expo
+- Graphql / Apollo
+
+## Data / IoT
+- Python
+- C++ / OpenCV
